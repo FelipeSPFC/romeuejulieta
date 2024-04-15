@@ -1,0 +1,12 @@
+body {
+    margin: auto;
+    padding: auto;
+}
+h1{max-width: 100%; /* Garantindo que as imagens não ultrapassem a largura da coluna */
+    width: 100%;
+    border: 2px solid #000000;
+    color: rgb(234, 28, 28);
+    border-radius: 0 10 10px 10px;
+    margin:  200px;
+    padding: auto;
+    text-align: center;}
